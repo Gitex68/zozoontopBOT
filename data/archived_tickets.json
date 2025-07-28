@@ -1,0 +1,110 @@
+{
+    "ticket-gitex-1753704184122-1753704189568": {
+        "ticketId": "ticket-gitex-1753704184122",
+        "owner": "798897617051844619",
+        "channelId": "1399361626435747861",
+        "reason": "Signalement",
+        "createdAt": "2025-07-28T12:03:04.122Z",
+        "controlMessageId": "1399361630013358223",
+        "archivedBy": "798897617051844619",
+        "archivedAt": "2025-07-28T12:03:09.819Z",
+        "closeReason": "Fermeture rapide",
+        "messages": [
+            {
+                "author": "[BOT] zozoontopBOT",
+                "content": "<@798897617051844619>",
+                "timestamp": "2025-07-28T12:03:31.477Z"
+            }
+        ]
+    },
+    "ticket-gitex-1753704184122-1753704195124": {
+        "ticketId": "ticket-gitex-1753704184122",
+        "owner": "798897617051844619",
+        "channelId": "1399361626435747861",
+        "reason": "Signalement",
+        "createdAt": "2025-07-28T12:03:04.122Z",
+        "controlMessageId": "1399361630013358223",
+        "archivedBy": "798897617051844619",
+        "archivedAt": "2025-07-28T12:03:15.310Z",
+        "closeReason": "Fermeture confirmée",
+        "messages": [
+            {
+                "author": "[BOT] zozoontopBOT",
+                "content": "<@798897617051844619>",
+                "timestamp": "2025-07-28T12:03:31.477Z"
+            }
+        ]
+    },
+    "ticket-gitex-1753705165041-1753705173792": {
+        "ticketId": "ticket-gitex-1753705165041",
+        "owner": "798897617051844619",
+        "channelId": "1399365740296933429",
+        "reason": "Autre",
+        "createdAt": "2025-07-28T12:19:25.041Z",
+        "controlMessageId": "1399365744591900703",
+        "archivedBy": "798897617051844619",
+        "archivedAt": "2025-07-28T12:19:34.015Z",
+        "closeReason": "Fermeture confirmée",
+        "messages": [
+            {
+                "author": "[BOT] zozoontopBOT",
+                "content": "<@798897617051844619>",
+                "timestamp": "2025-07-28T12:19:52.469Z"
+            }
+        ]
+    },
+    "ticket-gitex-1753705185389-1753705194577": {
+        "ticketId": "ticket-gitex-1753705185389",
+        "owner": "798897617051844619",
+        "channelId": "1399365825369997354",
+        "reason": "Assistance générale",
+        "createdAt": "2025-07-28T12:19:45.389Z",
+        "controlMessageId": "1399365829577150537",
+        "archivedBy": "798897617051844619",
+        "archivedAt": "2025-07-28T12:19:54.846Z",
+        "closeReason": "\"trfg",
+        "messages": [
+            {
+                "author": "[BOT] zozoontopBOT",
+                "content": "<@798897617051844619>",
+                "timestamp": "2025-07-28T12:20:12.731Z"
+            }
+        ]
+    },
+    "ticket-gitex-1753705761312-1753705766324": {
+        "ticketId": "ticket-gitex-1753705761312",
+        "owner": "798897617051844619",
+        "channelId": "1399368241113202738",
+        "reason": "Suggestion",
+        "createdAt": "2025-07-28T12:29:21.312Z",
+        "controlMessageId": "1399368245521154109",
+        "archivedBy": "798897617051844619",
+        "archivedAt": "2025-07-28T12:29:26.523Z",
+        "closeReason": "Fermeture express",
+        "messages": [
+            {
+                "author": "[BOT] zozoontopBOT",
+                "content": "<@798897617051844619>",
+                "timestamp": "2025-07-28T12:29:48.737Z"
+            }
+        ]
+    },
+    "ticket-gitex-1753709815352-1753710683786": {
+        "ticketId": "ticket-gitex-1753709815352",
+        "owner": "798897617051844619",
+        "channelId": "1399385240597696573",
+        "reason": "Autre",
+        "createdAt": "2025-07-28T13:36:55.352Z",
+        "controlMessageId": "1399385249896599685",
+        "archivedBy": "798897617051844619",
+        "archivedAt": "2025-07-28T13:51:24.076Z",
+        "closeReason": "Fermeture confirmée",
+        "messages": [
+            {
+                "author": "[BOT] zozoontopBOT",
+                "content": "<@798897617051844619>",
+                "timestamp": "2025-07-28T13:37:22.896Z"
+            }
+        ]
+    }
+}

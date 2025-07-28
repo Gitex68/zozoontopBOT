@@ -1,0 +1,12 @@
+{
+    "logsChannelId": "1399412648050823270",
+    "guildId": "841996779079073852",
+    "enabledEvents": {
+        "moderation": true,
+        "members": true,
+        "channels": true,
+        "messages": true,
+        "roles": true,
+        "server": true
+    }
+}

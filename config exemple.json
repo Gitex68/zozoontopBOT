@@ -1,0 +1,9 @@
+{
+    "token": "Token", 
+    "clientId": "idBot",
+    "guildId": "idServeur",
+    "colors": {
+        "default": "#77bd88",
+        "logs": "#246e0a"
+    }
+}

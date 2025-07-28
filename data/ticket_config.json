@@ -1,0 +1,18 @@
+{
+    "categoryId": "1399357947875819635",
+    "createChannelId": "1399357949322858496",
+    "logChannelId": "1399357950253858937",
+    "ticketMessageId": "1399423305047478424",
+    "archiveCategoryId": "1399368362793893973",
+    "activeTickets": {
+        "1399359143227297815": {
+            "ticketId": "ticket-gitex-1753703592270",
+            "owner": "798897617051844619",
+            "channelId": "1399359143227297815",
+            "reason": "Assistance générale",
+            "createdAt": "2025-07-28T11:53:12.270Z",
+            "controlMessageId": "1399359147459219506"
+        }
+    },
+    "ticketReasons": []
+}
