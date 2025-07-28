@@ -59,7 +59,7 @@ node .
 - `Read Message History` - Historique des messages
 - `View Audit Log` - Logs d'audit
 - `Move Members` - Déplacer les membres vocaux
-OU
+-OU
 - `Administrator` - Donne toute les perms au bot
 
 ### Intents Discord
