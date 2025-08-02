@@ -24,7 +24,7 @@ Un bot Discord avec système de tickets, salons vocaux privés, logs
 
 1. **Cloner le repository**
 ```bash
-git clone https://github.com/NathanSNB/DiscordjsBot.git
+git clone https://github.com/Gitex68/zozoontopBOT.git
 cd DiscordjsBot
 ```
 
